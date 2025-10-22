@@ -27,6 +27,7 @@ class _JogoViewState extends State<JogoView> {
   Timer? _timer;
   int _contagemErros = 0;
 
+
   @override
   void initState() {
     super.initState();
